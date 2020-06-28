@@ -1,0 +1,3 @@
+[submodule "PyTorch-Preview"]
+	path = PyTorch-Preview
+	url = https://github.com/NoviScl/PyTorch-Preview.git
