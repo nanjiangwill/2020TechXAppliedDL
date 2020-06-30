@@ -12,7 +12,7 @@
 6. (10 mins) Read 11.2.1 of [深度学习数学基础](https://zh.d2l.ai/chapter_appendix/math.html)
 7. (Optional, 15 mins with 1.25x) [L1/4 Linear Algebra - Deep Learning UC Berkeley](https://www.bilibili.com/video/BV14t41147MX?p=4)
 
-## Day 2 - Derivative, Gradient(41 mins)
+## Day 2 - Derivative, Gradient (41 mins)
 1. (18 mins with 1.25x)  Watch video [Derivative formulas through geometry - 3Blue1Brown](https://www.bilibili.com/video/BV1qW411N7FU?p=3)
 2. (17 mins with 1.25x) Watch video [Visualizing the chain rule and product rule - 3Blue1Brown](https://www.bilibili.com/video/BV1qW411N7FU?p=4)
 3. (11 mins with 1.25x) Watch video [Patial Derivative Introduction - Khan Academy](https://www.bilibili.com/video/BV1L7411a7Xk)
