@@ -8,6 +8,7 @@
 5. (5 mins) Try the below matrix multiplication example [here](http://matrixmultiplication.xyz/):
 
 ![image](https://raw.githubusercontent.com/nanjiangwill/2020TechXAppliedDL/master/ML%20Review/WechatIMG259.png?raw=true)
+
 6. (10 mins) Read 11.2.1 of [深度学习数学基础](https://zh.d2l.ai/chapter_appendix/math.html)
 7. (Optional, 15 mins with 1.25x) [L1/4 Linear Algebra - Deep Learning UC Berkeley](https://www.bilibili.com/video/BV14t41147MX?p=4)
 
