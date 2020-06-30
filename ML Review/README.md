@@ -6,7 +6,7 @@
 3. (11 mins with 1.25x) Watch video [Matrix-Matrix Multiplication - Andrew Ng](https://www.bilibili.com/video/BV1AD4y1Q7RH?p=14)
 4. (9 mins with 1.25x) Watch video [Matrix multiplication properties - Andrew Ng](https://www.bilibili.com/video/BV1AD4y1Q7RH?p=15)
 5. (5 mins) Try the below matrix multiplication example [here](http://matrixmultiplication.xyz/):
-![image](http://www.sciweavers.org/tex2img.php?eq=%5Cbegin%7Bbmatrix%7D1%262%263%5C%5C4%265%266%5C%5C7%268%269%5Cend%7Bbmatrix%7D%5Cbegin%7Bbmatrix%7D5%263%5C%5C4%266%5C%5C2%269%5Cend%7Bbmatrix%7D&bc=White&fc=Black&im=png&fs=12&ff=modern&edit=0 "image")
+![image](https://raw.githubusercontent.com/nanjiangwill/2020TechXAppliedDL/master/ML%20Review/WechatIMG259.png?raw=true)
 6. (10 mins) Read 11.2.1 of [深度学习数学基础](https://zh.d2l.ai/chapter_appendix/math.html)
 7. (Optional, 15 mins with 1.25x) [L1/4 Linear Algebra - Deep Learning UC Berkeley](https://www.bilibili.com/video/BV14t41147MX?p=4)
 
