@@ -37,7 +37,7 @@
 
 ## Day 5 - Forward&BackPropogation Continue and more ML (50 mins)
 1. (Continued from day 4, 10 mins) Compile [Linear Regression](https://www.kaggle.com/init27/fastai-v3-lesson-2-sgd#)
-2. (5 mins) Watch video [Overfitting and Underfitting](/Overfitting and Underfitting.mp4)
+2. (5 mins) Watch video [Overfitting and Underfitting](https://github.com/nanjiangwill/2020TechXAppliedDL/blob/master/ML%20Review/Overfitting%20and%20Underfitting.mp4?raw=true)
 3. (12 mins with 1.25x) Watch video [PCA 1 - Andrew Ng](https://www.bilibili.com/video/BV1AD4y1Q7RH?p=81)
 4. (15 mins with 1.25x) Watch video [PCA 2 - Andrew Ng](https://www.bilibili.com/video/BV1AD4y1Q7RH?p=82)
 5. (15 mins) [PCA animation](https://setosa.io/ev/principal-component-analysis/) 
