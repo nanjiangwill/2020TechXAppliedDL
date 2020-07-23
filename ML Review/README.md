@@ -37,7 +37,8 @@
 7. (10 mins) Compile [Linear Regression](https://www.kaggle.com/init27/fastai-v3-lesson-2-sgd#) to understand how to update weight with Pytorch and have visulization. More details about Pytorch will be introduced in Module 3
 
 
-## 7/24, Day 5 - Forward&BackPropogation Continue and more ML (50 mins)
+## 7/24, Day 5 - Forward&BackPropogation Continue and more ML (82 mins)
+***看不完的话可以留一些内容周末看或者下周看***
 1. (Continued from day 4, 10 mins) Compile [Linear Regression](https://www.kaggle.com/init27/fastai-v3-lesson-2-sgd#)
 2. (5 mins) Watch video [Overfitting and Underfitting](https://github.com/nanjiangwill/2020TechXAppliedDL/blob/master/ML%20Review/Overfitting%20and%20Underfitting.mp4?raw=true)
 3. (12 mins with 1.25x) Watch video [PCA 1 - Andrew Ng](https://www.bilibili.com/video/BV1AD4y1Q7RH?p=81)
@@ -45,6 +46,7 @@
 5. (15 mins) [PCA animation](https://setosa.io/ev/principal-component-analysis/) 
 6. (10 mins) [Binomial Distribution and MLE](https://www.bilibili.com/video/BV1Bz411b7Jy)
 7. (10 mins) Read pages 54-63, 68-69 of the excerpt [Probability - Deep Learning](https://www.deeplearningbook.org/contents/prob.html)
+8. (12 mins) [Bayes Theorem](https://www.bilibili.com/video/BV1R7411a76r)
 8. (**Optional**, if you want to know more about PCA) [Eigenvalue&Eigenvector](https://www.bilibili.com/video/BV1ys411472E?p=14)
 9. (**Optional**) [Eigenvalue&Eigenvector Animation](https://setosa.io/ev/principal-component-analysis/)
 10. (**Optional**) [Eigenvalue&Eigenvector Math](https://www.mathsisfun.com/algebra/eigenvalue.html)
