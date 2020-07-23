@@ -43,6 +43,7 @@
 3. (12 mins with 1.25x) Watch video [PCA 1 - Andrew Ng](https://www.bilibili.com/video/BV1AD4y1Q7RH?p=81)
 4. (15 mins with 1.25x) Watch video [PCA 2 - Andrew Ng](https://www.bilibili.com/video/BV1AD4y1Q7RH?p=82)
 5. (15 mins) [PCA animation](https://setosa.io/ev/principal-component-analysis/) 
+
 6. (**Optional**, if you want to know more about PCA) [Eigenvalue&Eigenvector](https://www.bilibili.com/video/BV1ys411472E?p=14)
 7. (**Optional**) [Eigenvalue&Eigenvector Animation](https://setosa.io/ev/principal-component-analysis/)
 8. (**Optional**) [Eigenvalue&Eigenvector Math](https://www.mathsisfun.com/algebra/eigenvalue.html)
